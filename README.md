@@ -60,3 +60,15 @@ Une fois ces étapes terminé voici ce qu'affiche notre tableau de bord :
 
 ![AD(4)](https://github.com/alexander-doumec/active_directory-/assets/147488564/a825850f-4db3-4c79-a3db-3a7f3c2fed3a)
 
+## Configuration DHCP 
+On configure un notre Serveur DHCP pour connecter notre machine virtuels :
+
+![DHCP](https://github.com/alexander-doumec/active_directory-/assets/147488564/d0ace0dc-ce28-4b84-9fc4-4ff721922c3d)
+
+![DHCP(1)](https://github.com/alexander-doumec/active_directory-/assets/147488564/cbe6b317-8599-4fe2-9384-29b401f2e9eb)
+
+![DHCP(2)](https://github.com/alexander-doumec/active_directory-/assets/147488564/c66a5aff-751c-486f-ba4e-5df034910056)
+
+![DHCP(3)](https://github.com/alexander-doumec/active_directory-/assets/147488564/d3ba6de7-6e9d-42e5-8c80-bbce3c94192f)
+
+
